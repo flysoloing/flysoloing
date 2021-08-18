@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on JDT
+- 📫 How to reach me: flysoloing@gmail.com
+
 <!--
 **flysoloing/flysoloing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
