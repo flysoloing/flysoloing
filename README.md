@@ -11,6 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2022年度总结](https://www.crudman.cn/posts/2022-summary/)
+- [京东十年记](https://www.crudman.cn/posts/my-ten-years-of-the-jd/)
+- [简历](https://www.crudman.cn/resume/)
+- [常用软件清单](https://www.crudman.cn/posts/common-software-list/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
