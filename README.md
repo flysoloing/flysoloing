@@ -43,7 +43,7 @@
 ![Bulma](https://img.shields.io/badge/-Bulma-white?logo=bulma&logoColor=00D1B2)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-white?logo=mysql&logoColor=4479A1)
-![Oracle](https://img.shields.io/badge/-Oracle-white?logo=oracle&logoColor=F80000)
+![Oracle Database](https://img.shields.io/badge/-Oracle%20Database-white?logo=oracle&logoColor=F80000)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-white?logo=microsoftsqlserver&logoColor=CC2927)
 ![Redis](https://img.shields.io/badge/-Redis-white?logo=redis&logoColor=DC382D)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-white?logo=elasticsearch&logoColor=005571)
