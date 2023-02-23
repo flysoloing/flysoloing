@@ -65,6 +65,7 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=FCC624)
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-white?logo=intellijidea&logoColor=000000)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?logo=visualstudiocode&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032)
 ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-white?logo=apachemaven&logoColor=C71A36)
 ![Postman](https://img.shields.io/badge/-Postman-white?logo=postman&logoColor=FF6C37)
