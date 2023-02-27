@@ -13,8 +13,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [2022年度总结](https://www.crudman.cn/posts/2022-summary/)
 - [京东十年记](https://www.crudman.cn/posts/my-ten-years-of-the-jd/)
-- [简历](https://www.crudman.cn/resume/)
 - [常用软件清单](https://www.crudman.cn/posts/common-software-list/)
+- [提高博客网站的访问速度](https://www.crudman.cn/posts/speeding-up-the-access-of-the-blog-site/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
