@@ -11,10 +11,10 @@
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [2025年度总结](https://www.crudman.cn/posts/2025-summary/)
 - [2024年度总结](https://www.crudman.cn/posts/2024-summary/)
 - [2023年度总结](https://www.crudman.cn/posts/2023-summary/)
 - [打造极简网站流量统计小工具](https://www.crudman.cn/posts/build-a-lightweight-website-traffic-statistics-tool/)
-- [2022年度总结](https://www.crudman.cn/posts/2022-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
